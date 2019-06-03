@@ -1,0 +1,30 @@
+{
+  "name": "functional-js",
+  "version": "0.0.1",
+  "description": "Pure functional JS library with no macro magic, just pure javascript functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohinp/functional-js.git"
+  },
+  "keywords": [
+    "fp",
+    "fpjs",
+    "monad",
+    "fp",
+    "es6",
+    "functional",
+    "programming",
+    "in",
+    "js"
+  ],
+  "author": "Rohin Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohinp/functional-js/issues"
+  },
+  "homepage": "https://github.com/rohinp/functional-js#readme"
+}
